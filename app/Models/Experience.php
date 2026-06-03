@@ -11,33 +11,33 @@ class Experience
                 'id' => 1,
                 'title' => 'Pengembangan Sistem Manajemen Lab Virtual Kimia',
                 'date' => 'Desember 2025',
-                'image' => 'kegiatan-1.jpg',
+                'image' => 'kegiatan-1.png',
                 'description' => 'Membangun aplikasi manajemen laboratorium virtual dengan menerapkan arsitektur MVC, sistem CRUD, OOP',
                 'kesan' => '....'
             ],
             [
                 'id' => 2,
-                'title' => '???',
-                'date' => 'Kuartal 1 2026',
-                'image' => 'kegiatan-2.jpg',
-                'description' => '???',
+                'title' => 'Pembuatan Proyek Akhir IMK',
+                'date' => 'Oktober-Desember 2025',
+                'image' => 'kegiatan-2.png',
+                'description' => 'Membuat desain UI dari sebuah aplikasi buatan yakni FAKTAIn yang dikembangkan dari low fidelity hingga high fidelity dengan menggunakan Figma',
                 'kesan' => '....'
             ],
             [
                 'id' => 3,
-                'title' => '???',
-                'date' => 'Maret 2026',
-                'image' => 'kegiatan-3.jpg',
-                'description' => '???',
+                'title' => 'WAW',
+                'date' => 'Maret - Juni 2026',
+                'image' => 'kegiatan-3.png',
+                'description' => 'Ini juga berkesan praktikum Web Programming II',
                 'kesan' => '....'
             ],
             [
                 'id' => 4,
-                'title' => '???',
-                'date' => 'Februari - Maret 2026',
-                'image' => 'kegiatan-4.jpg',
-                'description' => '???',
-                'kesan' => '....'
+                'title' => 'Mobile Programmiing',
+                'date' => '2026',
+                'image' => 'kegiatan-4.png',
+                'description' => 'Membuat aplikasi android dengan memahami konsep dasar pemrograman mobile, seperti activity, intent, dan layout dan implementasinya di Android menggunakan Kotlin',
+                'kesan' => 'Tidak perlu ditanyakan'
             ]
         ];
     }

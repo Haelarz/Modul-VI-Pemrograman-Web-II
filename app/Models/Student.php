@@ -11,7 +11,7 @@ class Student
             'nim'  => '2410817210025',          
             'prodi'=> 'Teknologi Informasi',
             'hobi' => 'Sleep',
-            'skill'=> 'Rebahan & DoomScrolling'
+            'skill'=> 'Skill 1 Skill 2 Ultimate Skill',
         ];
     }
 }
